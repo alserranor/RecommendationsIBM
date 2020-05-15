@@ -7,7 +7,7 @@ A recommendations engine using IBM Watson articles data
 	- Rank Based Recommendations
 	- User-User Based Recommendations
 	- Content Based Recommendations
-	- SVD Methon
+	- SVD Method
 
 ## License
 
