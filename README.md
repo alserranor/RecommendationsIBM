@@ -3,11 +3,14 @@ A recommendations engine using IBM Watson articles data
 
 ## Contents
 
- - Recommendations_with_IBM.ipynb: Jupyter notebook with all the data wrangling and different recommendations functions:
+ - RecommendationsIBM.ipynb: Jupyter notebook with all the data wrangling and different recommendations functions:
 	- Rank Based Recommendations
 	- User-User Based Recommendations
 	- Content Based Recommendations
 	- SVD Method
+ - articles_community.csv: Dataset file with articles data from the IBM Watson database
+ - user_item_interactions.csv: Dataset file with information about the interaction of users with the articles from
+the database above
 
 ## License
 
